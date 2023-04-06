@@ -1,0 +1,71 @@
+.cover-frame-child {
+  width: 1920px;
+  height: 960px;
+  background-color: #eaeaea;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.cover-frame-item {
+  width: 1302.1px;
+  height: 960px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 297.9px;
+}
+
+.cover-frame-inner {
+  height: 7.2%;
+  width: 22.92%;
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  inset: 44.34% 3.36% 48.46% 73.72%;
+  overflow: hidden;
+}
+
+.made-by-team, .travel-website {
+  position: absolute;
+  top: 875.25px;
+  left: 1173.29px;
+}
+
+.travel-website {
+  font-weight: 500;
+  top: 0;
+  left: 0;
+}
+
+.travel-website-wrapper {
+  width: 224px;
+  height: 40px;
+  color: var(--color-white);
+  font-size: 34px;
+  position: absolute;
+  top: 827.38px;
+  left: 1173.29px;
+}
+
+.vector-icon3 {
+  width: 1076.46px;
+  height: 2340.6px;
+  position: absolute;
+  top: 70.09px;
+  left: 56px;
+}
+
+.cover-frame {
+  background-color: var(--color-white);
+  width: 100%;
+  height: 960px;
+  text-align: left;
+  color: #99d2f5;
+  font-size: 20px;
+  font-family: var(--font-roboto);
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=cover-frame.6c895c93.css.map */
